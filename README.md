@@ -4,7 +4,7 @@
 
 One script was developed to evaluate tumor volume outcomes for different drug regimens in a cancer study. The study was performed on male and female (biological sex) mice.
 
-### Heroes of Pymoli Code Functionality
+### Mice Cancer Study Code Functionality
 
 Each section of code pulls from a merged form of the meta data and study data in order to evaluate the following: 
 
